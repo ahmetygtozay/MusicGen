@@ -4,10 +4,10 @@ Overview
 MusicGen is a project designed to generate music tracks programmatically. It leverages machine learning algorithms to produce creative and diverse musical compositions. This repository contains the source code, sample datasets, and instructions to set up and experiment with the MusicGen model.
 Features
 
-## Music Generation: Create original music tracks based on trained models.
-## Customizable Parameters: Adjust hyperparameters to influence style and complexity of generated music.
-## Sample Datasets: Includes sample datasets for training and testing the model.
-## Easy to Extend: Modular codebase allows for adding new features or preprocessing techniques.
+ Music Generation: Create original music tracks based on trained models.
+ Customizable Parameters: Adjust hyperparameters to influence style and complexity of generated music.
+ Sample Datasets: Includes sample datasets for training and testing the model.
+ Easy to Extend: Modular codebase allows for adding new features or preprocessing techniques.
 
 # Installation
 ````
